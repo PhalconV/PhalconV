@@ -15,17 +15,17 @@ I build data-driven solutions that transform raw information into actionable ins
 
 ### 📂 Selected Projects
 
-* **NYC School Performance EDA:** Trend analysis, correlations, and SAT score insights
-* **Premier League Match Analytics (2020–2024):** Performance metrics and team analysis
-* **LA Crime Data Analysis:** Pattern discovery and visualization storytelling
+* **Credit Card Fraud Detection:** Trend analysis, correlations, and SAT score insights
+* **Heart Disease Prediction:** Performance metrics and team analysis
+* **Ausine Crime Data Analysis:** Pattern discovery and visualization storytelling
 * **Supermarket Sales Analytics:** KPI modeling and BI dashboarding
 * **Traffic Flow Simulation (Python):** Transportation data modeling and scenario analysis
 
 ### 🎓 Background
 
-* B.Tech in a data-relevant, quantitative field
+* B.Tech in a Transport Management
 * Strong foundation in statistics, modeling, and analytical frameworks
-* Training and certifications in Python, SQL, and data analysis (DataCamp)
+* Training and certifications in Python, SQL, and data analysis, Data Science (DataCamp)
 
 ### 🚀 Interests
 
