@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Taiwo
 
-**Data Analyst | Data Scientist (In-Progress) | Python Practitioner**
+**Data Analyst | Data Scientist | AI Automation | Python Practitioner**
 
 I build data-driven solutions that transform raw information into actionable insights. My work spans exploratory analytics, statistical modeling, and business intelligence, with strong emphasis on clean data pipelines and clear communication of results.
 
